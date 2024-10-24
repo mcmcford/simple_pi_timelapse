@@ -8,8 +8,8 @@ https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
 The "generate" function of this tool expects ffmpeg to be installed on the system
 
 ```
-git clone ___
-cd pi_timelapse
+git clone https://github.com/mcmcford/simple_pi_timelapse.git
+cd simple_pi_timelapse
 ```
 
 ```
