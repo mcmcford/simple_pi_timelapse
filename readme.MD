@@ -5,6 +5,8 @@ rpi5 no longer uses the original picamera library
 
 https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
 
+The "generate" function of this tool expects ffmpeg to be installed on the system
+
 ```
 git clone ___
 cd pi_timelapse
