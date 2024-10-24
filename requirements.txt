@@ -1,0 +1,2 @@
+picamera2==0.3.17
+textual==0.84.0
